@@ -237,3 +237,4 @@ public:
         return students.size() == capacity;
     }
 };
+// This is a useless comment
